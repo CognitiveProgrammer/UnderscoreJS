@@ -15,7 +15,7 @@ __This eBook is a work in progress as of now__
 
 [Table of Contents]()
 * Foreword (Looking for people : Let me know if you like the content and want to write foreward for this mini eBook)
-* [Preface](TBD)
+* [Preface](https://github.com/9lean/UnderscoreJS/tree/master/Preface)
 * [Chapter - 1: TBD]()
 * [Chapter - 2: TBD]()
 * [Chapter - 3: TBD]()
